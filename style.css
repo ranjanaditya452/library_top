@@ -1,0 +1,13 @@
+.card{
+    background-color: gray;
+    width: 300px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.cardArea{
+    display: flex;
+}
